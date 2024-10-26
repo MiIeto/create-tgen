@@ -2,4 +2,4 @@
 'create-tgen': patch
 ---
 
-fix: release workflow
+fix: publish config
